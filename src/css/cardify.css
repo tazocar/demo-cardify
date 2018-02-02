@@ -1,0 +1,61 @@
+header{
+  text-transform: uppercase;
+  background-color: #011a27;
+  color: #FFF;
+  padding: 5em 0;
+}
+.clear-margin{
+  margin: 0;
+}
+header h1{
+  font-weight: bolder;
+  font-size: 3em;
+  margin: 0;
+}
+header h2{
+  font-size: 1.2em;
+  font-weight: 300;
+  margin: 0;
+  color: #F0810F;
+}
+.description{
+  background-color: #063852; 
+  padding: 0.5em 0;
+}
+h3{
+  color: #FFF;
+  font-size: 1em;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+}
+.example-title{
+  background-color: #F0810F;
+}
+.example-title h3{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+/* Estilos de prueba para el Cardify */
+/*figure{
+  position: relative;
+  display: inline-block;
+  background-color: #011a27;
+  display: inline-block;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 0;
+
+.opacityCero{
+  opacity: 0;
+}
+figcaption{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  font-weight: bolder;
+  text-align: center;
+  color: #FFF;
+  line-height: 1.2em;
+}*/
